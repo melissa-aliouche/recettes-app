@@ -4,7 +4,7 @@ Une petite application web où les utilisateurs peuvent publier et consulter des
 
 ## 🚀 Lien en ligne
 
-🖥️ [Accéder à l'application](http://www.toutlemondecuisine.rf.gd/) – hébergée gratuitement avec [InfinityFree](https://infinityfree.net/)
+🖥️ [Accéder à l'application](https://www.toutlemondecuisine.rf.gd/) – hébergée gratuitement avec [InfinityFree](https://infinityfree.net/)
 
 
 ---
